@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi 👋, I'm hsmon
+I'm a web developer.
 
-<!--
-**hsmon/hsmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and Tools:
 
-Here are some ideas to get you started:
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,php,python,go&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=pug,html,scss,css,tailwind,nextjs,react,nuxt,vue,astro,jest,vite,webpack&theme=light)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=express,nestjs,prisma,fastapi&theme=light)](https://skillicons.dev)
+
+### Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=docker,git,aws,githubactions,supabase,vercel,mysql,postgres,&theme=light)](https://skillicons.dev)
+
+### Tools and Others
+[![My Skills](https://skillicons.dev/icons?i=bash,figma,xd,ps,wordpress,&theme=light)](https://skillicons.dev)
